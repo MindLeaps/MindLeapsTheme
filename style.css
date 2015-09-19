@@ -7,38 +7,40 @@
  Template:     Divi
  License:      GNU General Public License v2
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
-*/
+ */
 
 .yks-mailchimpFormDiv input {
-    max-width: 800px;
-    font-size: 1.5rem;
+  max-width: 800px;
+  font-size: 1.5rem;
 }
 
 .ykfmc-submit {
-    color: white;
-    background: #5e9e31;
+  color: white;
+  background: #5e9e31;
 }
 
 p {
-font-size: 1.2em;
+  font-size: 1.2em;
 }
 
 .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
-width: 640px;
-height: 480px;
+  width: 640px;
+  height: 480px;
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
 
 .et_pb_bg_layout_dark .et_pb_slide_description {
-text-shadow: black 1px 1px 1px;
+  text-shadow: black 1px 1px 1px;
 }
 
 .et_pb_more_button {
-text-shadow: black 1px 1px 1px;
+  text-shadow: black 1px 1px 1px;
 }
 
 #et_top_search { display: none !important;}
 
 .menu-green {
-       color: #5e9e31; !important;
-       font-weight: bold;
+ color: #5e9e31; !important;
+ font-weight: bold;
 }
