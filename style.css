@@ -30,6 +30,20 @@ p {
   transform: translateX(-50%);
 }
 
+@media screen and (max-width: 767px) {
+  .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
+    width: 400px;
+    height: 225px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
+    width: 280px;
+    height: 160px;
+  }
+}
+
 .et_pb_bg_layout_dark .et_pb_slide_description {
   text-shadow: black 1px 1px 1px;
 }
