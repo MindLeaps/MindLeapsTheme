@@ -43,7 +43,7 @@ p {
     width: 280px;
     height: 160px;
   }
-  .et_pb_slide_content, .et_pb_more_button {
+  .et_pb_fullwidth_section:not(:first-child) .et_pb_slide_content, .et_pb_fullwidth_section:not(:first-child) .et_pb_more_button {
     display: inline-block !important;
   }
 }
