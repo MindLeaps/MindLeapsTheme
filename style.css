@@ -43,6 +43,9 @@ p {
     width: 280px;
     height: 160px;
   }
+  .et_pb_slide_content, .et_pb_more_button {
+    display: inline-block !important;
+  }
 }
 
 .et_pb_bg_layout_dark .et_pb_slide_description {
