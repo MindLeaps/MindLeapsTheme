@@ -52,6 +52,10 @@ p {
   text-shadow: black 1px 1px 1px;
 }
 
+.et_pb_portfolio_items {
+  pointer-events: none;
+}
+
 .et_pb_more_button {
   text-shadow: black 1px 1px 1px;
 }
