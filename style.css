@@ -66,7 +66,3 @@ p {
  color: #5e9e31; !important;
  font-weight: bold;
 }
-
-.et_pb_slide, .et_pb_container {
-  background: linear-gradient(to right, rgba(0,0,0,0.0), rgba(0,0,0,0.4), rgba(0,0,0,0.4),rgba(0,0,0,0.6), rgba(0,0,0,0.4), rgba(0,0,0,0.4), rgba(0,0,0,0));
-}
