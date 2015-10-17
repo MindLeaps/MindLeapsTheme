@@ -37,7 +37,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info">Help 250 Youth Recover From Ebola In Guinea - <a href="https://www.globalgiving.org/projects/guinea-mindleaps/">Donate</a></p>
+						<p id="footer-info">Help 250 Youth Recover From Ebola In Guinea - <a target="_blank" href="https://www.globalgiving.org/projects/guinea-mindleaps/">Donate</a></p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
