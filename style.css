@@ -84,6 +84,11 @@ p {
   width: 100%;
 }
 
+#top-menu li {
+  font-weight: 500;
+  padding-right: 20px;
+}
+
 @media screen and (min-width: 480px) {
   #main-footer {
     position: fixed;
