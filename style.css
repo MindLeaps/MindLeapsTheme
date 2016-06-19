@@ -95,4 +95,8 @@ p {
   }
 }
 
+.container.et_menu_container {
+  width: 98%;
+}
+
 /* This should be a submodule */
