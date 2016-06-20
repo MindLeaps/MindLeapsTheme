@@ -117,4 +117,10 @@ p {
   }
 }
 
+@media screen and (max-width: 995px) {
+  #top-menu li {
+    padding-right: 6px;
+  }
+}
+
 /* This should be a submodule */
